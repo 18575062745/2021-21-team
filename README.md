@@ -15,6 +15,8 @@
 
 （二）作品使用素材：
 
+示例：
+
 ![image](https://user-images.githubusercontent.com/73349528/123191949-97363700-d4d4-11eb-9e67-05887943cda2.png)
 
 ![image](https://user-images.githubusercontent.com/73349528/123191998-a9b07080-d4d4-11eb-91b5-51513777f1e5.png)
@@ -29,4 +31,12 @@
   ![D075FCFADAECA746D1CD04B34C824034](https://user-images.githubusercontent.com/73349528/122887585-a2be1c80-d373-11eb-8e7e-acce0558a03b.png)
   
 （三）作品文档
+
+主题：
+
+作品内容包括影视作品《fate》、《鬼灭之刃》、《崩坏 3rdCG 女王降临》、《咒术回战》等，作品主题是战斗、MAD；目的是让观众体会战斗的热血和战斗前后的平静，也让制作者体验剪辑 MAD 的过程。
+
+设计与实现：
+
+按照bgm《Whatever It Takes》的各个踩点用pr填充视频、音频素材和视频剪辑效果，用pr、ae和au制作一定的视频、音频效果。
 
