@@ -40,3 +40,5 @@
 
 按照bgm《Whatever It Takes》的各个踩点用pr填充视频、音频素材和视频剪辑效果，用pr、ae和au制作一定的视频、音频效果。
 
+pr轨道示意图：
+![image](https://user-images.githubusercontent.com/73349528/123192961-7cfd5880-d4d6-11eb-8396-8bcc1072db44.png)
